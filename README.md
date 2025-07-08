@@ -1,19 +1,33 @@
-<h1 align="center">Hi 👋, I'm Thanh Hoa</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# Xin chào, mình là [Tên bạn]! 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harrydyhasi&label=Profile%20views&color=0e75b6&style=flat" alt="harrydyhasi" /> </p>
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/your_twitter)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/your_linkedin)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harrydyhasi" alt="harrydyhasi" /></a> </p>
+Mình là một [mô tả ngắn về bạn, ví dụ: Lập trình viên Full-stack, chuyên về MERN Stack]. Đam mê xây dựng các ứng dụng web hiện đại và đóng góp cho cộng đồng mã nguồn mở.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/hoa-tran-thanh-7921182b5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hoa-tran-thanh-7921182b5" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/thanhhoa1711/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/thanhhoa1711/" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 🌟 Về mình
+- 🔭 Hiện tại: [Dự án hoặc công việc bạn đang làm]
+- 🌱 Đang học: [Công nghệ hoặc kỹ năng mới]
+- 👯 Tìm kiếm: [Cơ hội cộng tác, ví dụ: dự án open-source]
+- 💬 Liên hệ: [Email hoặc mạng xã hội]
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harrydyhasi&show_icons=true&locale=en&layout=compact" alt="harrydyhasi" /></p>
+## 🛠️ Công nghệ & Kỹ năng
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harrydyhasi&show_icons=true&locale=en" alt="harrydyhasi" /></p>
+## 📈 Thống kê GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&layout=compact&theme=radical)
+
+## 🚀 Dự án nổi bật
+- **[Tên dự án 1](link_repo)**: Mô tả ngắn về dự án, công nghệ sử dụng.
+- **[Tên dự án 2](link_repo)**: Mô tả ngắn về dự án, công nghệ sử dụng.
+
+## 📬 Liên hệ
+- 📧 Email: [your_email@example.com]
+- 🌐 Website: [your_website.com]
+
+Cảm ơn bạn đã ghé thăm profile của mình! 😄
