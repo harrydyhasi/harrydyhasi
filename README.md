@@ -23,9 +23,9 @@ I'm a **Mobile Developer** specializing in **Swift** for iOS and **Flutter** for
 | | | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git) |
 
 ## 📈 GitHub Stats (Including Private & Contributed Repos)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=dracula&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&layout=compact&theme=dracula&hide_border=true&count_private=true)
-![Contribution Stats](https://github-contributor-stats.vercel.app/api?username=your_username&theme=dracula&hide_border=true&combine_all_yearly_contributions=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harrydyhasi&show_icons=true&theme=dracula&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harrydyhasi&layout=compact&theme=dracula&hide_border=true&count_private=true)
+![Contribution Stats](https://github-contributor-stats.vercel.app/api?username=harrydyhasi&theme=dracula&hide_border=true&combine_all_yearly_contributions=true)
 
 *Note*: Stats include contributions to private and collaborative repositories, anonymized for privacy. Deployed with a personal Vercel instance to include private repo data.
 
