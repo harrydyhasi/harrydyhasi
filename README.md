@@ -1,56 +1,69 @@
-# Hi, I'm Tran Thanh Hoa! 👋
+<p align="center">
+  <img src="images/mobile_app_banner.png" alt="Mobile App Banner" width="600"/>
+</p>
 
-I'm a **Mobile Developer** specializing in **Swift** for iOS and **Flutter** for cross-platform apps. I build intuitive, high-performance mobile applications with a focus on clean code and seamless user experiences. My work spans public, private, and collaborative repositories, including open-source contributions and proprietary projects.
+# Hi, I'm Thanh Hòa! 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/your_linkedin)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=web)](https://your_portfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail)](mailto:tthanhhoa171103@gmail.com)
+<p align="center">
+  <a href="https://linkedin.com/in/your_linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin"/></a>
+  <a href="https://your_portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=web"/></a>
+  <a href="https://apps.apple.com/your_app"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=apple"/></a>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyour_username&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=true"/>
+</p>
+
+I'm a **Mobile Developer** passionate about building **iOS** apps with **Swift** and **cross-platform** apps with **Flutter**. I specialize in clean code, real-time features, and intuitive UX. My work spans public, private, and open-source repositories, including apps published on the App Store and Google Play.
 
 ---
 
 ## 🌟 About Me
-- **🔭 Current Projects**: Building a cross-platform food delivery app with Flutter, featuring real-time driver tracking using Google Maps and Socket.IO.
-- **🌱 Learning**: Advanced SwiftUI animations, Combine framework, and Flutter’s Riverpod for state management.
-- **👯 Collaboration**: Actively contributing to open-source Flutter and Swift projects, and open to new opportunities.
-- **💡 Fun Fact**: My first Swift app, a task manager, is now used daily by my friends for productivity!
+- **🔭 Current Project**: Developing a Flutter food delivery app with real-time driver tracking using Google Maps and Socket.IO.
+- **🌱 Learning**: SwiftUI animations, Combine, and Flutter Riverpod.
+- **👯 Collaboration**: Contributing to open-source Swift and Flutter projects.
+- **💡 Fun Fact**: My first Swift app, a task manager, helps my friends stay productive!
 - **📍 Location**: [Your City, Country]
 
-## 🛠️ Technologies & Tools
-| **Languages** | **Frameworks** | **Tools** |
-|---------------|----------------|-----------|
-| ![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift) | ![SwiftUI](https://img.shields.io/badge/-SwiftUI-000000?style=flat-square) | ![Xcode](https://img.shields.io/badge/-Xcode-147EFB?style=flat-square&logo=xcode) |
-| ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart) | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter) | ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase) |
-| | | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git) |
+## 🛠️ Skills
+<p align="center">
+  <img src="https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift"/>
+  <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter"/>
+  <img src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart"/>
+  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase"/>
+  <img src="https://img.shields.io/badge/-Xcode-147EFB?style=flat-square&logo=xcode"/>
+</p>
 
-## 📈 GitHub Stats (Including Private & Contributed Repos)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harrydyhasi&show_icons=true&theme=dracula&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harrydyhasi&layout=compact&theme=dracula&hide_border=true&count_private=true)
-![Contribution Stats](https://github-contributor-stats.vercel.app/api?username=harrydyhasi&theme=dracula&hide_border=true&combine_all_yearly_contributions=true)
-
-*Note*: Stats include contributions to private and collaborative repositories, anonymized for privacy. Deployed with a personal Vercel instance to include private repo data.
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://your-vercel-instance.vercel.app/api?username=harrydyhasi&show_icons=true&theme=dracula&count_private=true&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://your-vercel-instance.vercel.app/api/top-langs/?username=harrydyhasi&layout=compact&theme=dracula&count_private=true&hide_border=true" alt="Top Languages"/>
+  <img src="https://your-contributor-stats.vercel.app/api?username=harrydyhasi&theme=dracula&combine_all_yearly_contributions=true&hide_border=true" alt="Contribution Stats"/>
+</p>
+<p align="center"><i>Stats include private and contributed repositories, anonymized for privacy.</i></p>
 
 ## 🚀 Featured Projects
 - **[Food Delivery App](https://github.com/your_username/food-delivery-app)**  
-  A cross-platform app built with **Flutter** and **Dart**, featuring real-time driver tracking with **Google Maps API**, push notifications via **Firebase**, and live updates using **Socket.IO**.  
-  *Technologies*: Flutter, Dart, Firebase, Socket.IO, Google Maps.
+  A cross-platform app built with **Flutter**, featuring real-time tracking with **Google Maps** and **Socket.IO**.  
+  *Technologies*: Flutter, Dart, Firebase, Socket.IO.  
+  <img src="images/food_delivery_demo.gif" width="300"/>
 
 - **[iOS Task Manager](https://github.com/your_username/task-manager-ios)**  
-  An iOS app built with **SwiftUI** and **Core Data**, featuring smooth animations, offline storage, and iCloud sync for task management.  
-  *Technologies*: Swift, SwiftUI, Core Data, Combine.
+  An iOS app built with **SwiftUI** and **Core Data**, with smooth animations and iCloud sync.  
+  *Technologies*: Swift, SwiftUI, Core Data.  
+  <img src="images/task_manager_screenshot.png" width="300"/>
 
-- **[Open-Source Contribution: Flutter Package](https://github.com/some_repo/flutter_package)**  
-  Contributed a custom animation widget to a Flutter package, optimizing performance for complex UI transitions.  
+- **[Open-Source Contribution](https://github.com/some_repo/flutter_package)**  
+  Added a custom animation widget to a Flutter package.  
   *Technologies*: Flutter, Dart.
 
 ## 🏆 Achievements
-- Published [X] apps to the **App Store** and **Google Play**.
-- Contributed to [X] open-source repositories in Flutter and Swift ecosystems.
-- Completed certifications: [e.g., Flutter & Dart - The Complete Guide, SwiftUI Masterclass].
+- Published [X] apps to **App Store** and **Google Play**.
+- Contributed to [X] open-source and [Y] private repositories.
+- Certified in [Flutter & Dart - The Complete Guide].
 
 ## 📬 Get in Touch
-- **Email**: [tthanhhoa171103@gmail.com]
-- **Portfolio**: [your_portfolio.com]
-- **Twitter**: [@your_twitter](https://twitter.com/your_twitter)
-- **Blog**: [your_blog.com]
+<p align="center">
+  <a href="mailto:your_email@example.com">📧 Email</a> | 
+  <a href="https://your_portfolio.com">🌐 Portfolio</a> | 
+  <a href="https://twitter.com/your_twitter">🐦 Twitter</a>
+</p>
 
-Thanks for visiting my profile! Excited to connect and build innovative mobile apps together! 🚀
+<p align="center">Thanks for visiting! Let's create amazing mobile apps together! 🚀</p>
