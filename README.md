@@ -33,9 +33,9 @@ I'm a **Mobile Developer** passionate about building **iOS** apps with **Swift**
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://your-vercel-instance.vercel.app/api?username=harrydyhasi&show_icons=true&theme=dracula&count_private=true&hide_border=true" alt="GitHub Stats"/>
-  <img src="https://your-vercel-instance.vercel.app/api/top-langs/?username=harrydyhasi&layout=compact&theme=dracula&count_private=true&hide_border=true" alt="Top Languages"/>
-  <img src="https://your-contributor-stats.vercel.app/api?username=harrydyhasi&theme=dracula&combine_all_yearly_contributions=true&hide_border=true" alt="Contribution Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=harrydyhasi&show_icons=true&theme=dracula&count_private=true&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harrydyhasi&layout=compact&theme=dracula&count_private=true&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=harrydyhasi&theme=dracula&combine_all_yearly_contributions=true&hide_border=true" alt="Contribution Stats"/>
 </p>
 <p align="center"><i>Stats include private and contributed repositories, anonymized for privacy.</i></p>
 
