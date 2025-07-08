@@ -1,33 +1,54 @@
-# Xin chào, mình là [Tên bạn]! 👋
+# Hi, I'm [Tran Thanh Hoa]! 👋
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/your_twitter)
+I'm a **Mobile Developer** with a passion for crafting **iOS** apps using **Swift** and **cross-platform** solutions with **Flutter**. I specialize in building intuitive, high-performance mobile applications with a focus on user experience and clean code. Currently, I'm exploring advanced **SwiftUI** animations and **Flutter** integrations for real-time features like maps and push notifications.
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/your_linkedin)
-
-Mình là một [mô tả ngắn về bạn, ví dụ: Lập trình viên Full-stack, chuyên về MERN Stack]. Đam mê xây dựng các ứng dụng web hiện đại và đóng góp cho cộng đồng mã nguồn mở.
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=web)](https://your_portfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail)](mailto:your_email@example.com)
 
 ---
 
-## 🌟 Về mình
-- 🔭 Hiện tại: [Dự án hoặc công việc bạn đang làm]
-- 🌱 Đang học: [Công nghệ hoặc kỹ năng mới]
-- 👯 Tìm kiếm: [Cơ hội cộng tác, ví dụ: dự án open-source]
-- 💬 Liên hệ: [Email hoặc mạng xã hội]
+## 🌟 About Me
+- **🔭 Current Projects**: Developing a cross-platform food delivery app with Flutter, featuring real-time driver tracking using Google Maps and Socket.IO.
+- **🌱 Learning**: Deepening expertise in SwiftUI animations, Combine framework, and Flutter's Riverpod for state management.
+- **👯 Collaboration**: Open to contributing to open-source mobile projects, especially in Flutter or Swift ecosystems.
+- **💡 Fun Fact**: I built my first iOS app in Swift as a personal project to organize my daily tasks, and it’s now used by my friends!
+- **📍 Location**: [Your City, Country]
 
-## 🛠️ Công nghệ & Kỹ năng
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
+## 🛠️ Technologies & Tools
+| **Languages** | **Frameworks** | **Tools** |
+|---------------|----------------|-----------|
+| ![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift) | ![SwiftUI](https://img.shields.io/badge/-SwiftUI-000000?style=flat-square) | ![Xcode](https://img.shields.io/badge/-Xcode-147EFB?style=flat-square&logo=xcode) |
+| ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart) | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter) | ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase) |
+| | | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git) |
 
-## 📈 Thống kê GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harrydyhasi&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harrydyhasi&layout=compact&theme=radical)
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harrydyhasi&show_icons=true&theme=dracula&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harrydyhasi&layout=compact&theme=dracula&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harrydyhasi&theme=dracula&hide_border=true)
 
-## 🚀 Dự án nổi bật
-- **[Tên dự án 1](link_repo)**: Mô tả ngắn về dự án, công nghệ sử dụng.
-- **[Tên dự án 2](link_repo)**: Mô tả ngắn về dự án, công nghệ sử dụng.
+## 🚀 Featured Projects
+- **[Food Delivery App](https://github.com/your_username/food-delivery-app)**  
+  A cross-platform mobile app built with **Flutter** and **Dart**, featuring real-time driver tracking with **Google Maps API**, push notifications via **Firebase**, and live updates using **Socket.IO**.  
+  *Technologies*: Flutter, Dart, Firebase, Socket.IO, Google Maps.
 
-## 📬 Liên hệ
-- 📧 Email: [your_email@example.com]
-- 🌐 Website: [your_website.com]
+- **[iOS Task Manager](https://github.com/your_username/task-manager-ios)**  
+  A task management app for iOS built with **SwiftUI** and **Core Data**, featuring smooth animations and a minimalist UI. Supports offline storage and iCloud sync.  
+  *Technologies*: Swift, SwiftUI, Core Data, Combine.
 
-Cảm ơn bạn đã ghé thăm profile của mình! 😄
+- **[Open-Source Contribution: Flutter Package](https://github.com/some_repo/flutter_package)**  
+  Contributed a custom animation widget to an open-source Flutter package, improving performance for complex UI transitions.  
+  *Technologies*: Flutter, Dart.
+
+## 🏆 Achievements
+- Published [X] apps to the **App Store** and **Google Play**.
+- Contributed to [X] open-source repositories in the Flutter community.
+- Completed [specific certification, e.g., Flutter & Dart - The Complete Guide] on [platform, e.g., Udemy].
+
+## 📬 Get in Touch
+- **Email**: [tthanhhoa171103@example.com]
+- **Portfolio**: [your_portfolio.com]
+- **Twitter**: [@your_twitter](https://twitter.com/your_twitter)
+- **Blog**: [your_blog.com]
+
+Thanks for stopping by! Let's connect and build amazing mobile experiences together! 🚀
