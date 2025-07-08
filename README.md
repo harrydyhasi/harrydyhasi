@@ -19,8 +19,8 @@ Mình là một [mô tả ngắn về bạn, ví dụ: Lập trình viên Full-s
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
 
 ## 📈 Thống kê GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harrydyhasi&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harrydyhasi&layout=compact&theme=radical)
 
 ## 🚀 Dự án nổi bật
 - **[Tên dự án 1](link_repo)**: Mô tả ngắn về dự án, công nghệ sử dụng.
