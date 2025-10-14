@@ -1,36 +1,82 @@
-# Hi, I'm Thanh Hòa! 👋
+<!-- Profile Header -->
+<h1 align="center">👋 Hi, I'm Thanh Hòa</h1>
+<h3 align="center">🚀 Mobile Developer | iOS (Swift) & Flutter Enthusiast</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/your_linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin"/></a>
-  <a href="https://your_portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=web"/></a>
+  <a href="https://linkedin.com/in/your_linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:hoa.tt@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://your_portfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
 </p>
 
-I'm a **Mobile Developer** passionate about building **iOS** apps with **Swift** and **cross-platform** apps with **Flutter**. I specialize in clean code, real-time features, and intuitive UX. My work spans public, private, and open-source repositories.
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harrydyhasi&label=Profile%20views&color=0e75b6&style=flat" alt="harrydyhasi" /> </p>
 ---
 
-## 🌟 About Me
-- **📍 Location**: [Ho Chi Minh City, Viet Nam]
+### 💫 About Me
+- 📍 Based in **Ho Chi Minh City, Viet Nam**
+- 💻 Focused on **Swift**, **Flutter**, and **Clean Architecture**
+- ⚡ Passionate about **real-time systems**, **scalable apps**, and **pixel-perfect UI**
+- 🌱 Currently exploring **AI integration in mobile apps**
+- 🎯 Goal: Craft seamless, beautiful user experiences with high-quality code
 
-## 🛠️ Skills
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://realm.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harrydyhasi&layout=compact&theme=dracula&count_private=true&hide_border=true" alt="Top Languages"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harrydyhasi&show_icons=true&theme=dracula&count_private=true&hide_border=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=harrydyhasi&theme=dracula&combine_all_yearly_contributions=true&hide_border=true" alt="Contribution Stats"/>
-</p>
+### 🧰 Tech Stack
 
-## 📬 Get in Touch
-<p align="center">
-  <a href="mailto:hoa.tt@gmail.com">📧 Email</a> | 
-  <a href="https://your_portfolio.com">🌐 Portfolio</a> | 
-  <a href="https://twitter.com/your_twitter">🐦 Twitter</a>
+#### 🖥️ Mobile & Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=swift,flutter,dart,androidstudio,kotlin,figma" />
 </p>
 
-<p align="center">Thanks for visiting! Let's create amazing mobile apps together! 🚀</p>
+#### 🧠 Backend & Database
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,firebase,sqlite" />
+</p>
+
+#### ⚙️ Tools & Others
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,linux,python,photoshop,vscode" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harrydyhasi&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harrydyhasi&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=harrydyhasi&theme=radical&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<!-- 
+
+### 🏗️ Featured Projects
+| Project | Description | Tech |
+|----------|--------------|------|
+| 🚀 **Coffee Shop App** | A beautiful cross-platform coffee ordering app with real-time updates | Flutter, Firebase |
+| 📱 **BrainSleep iOS App** | A chatbot-based sleep assistant built with clean Swift architecture | Swift, UIKit, Core Animation |
+| 🌍 **Map Tracker** | Real-time location tracking with Mapbox integration | Flutter, Mapbox, LocationIQ |
+
+-->
+
+### 💌 Get in Touch
+<p align="center">
+  <a href="mailto:hoa.tt@gmail.com" target="_blank">📧 Email</a> •
+  <a href="https://linkedin.com/in/your_linkedin" target="_blank">💼 LinkedIn</a> •
+  <a href="https://your_portfolio.com" target="_blank">🌐 Portfolio</a> •
+  <a href="https://twitter.com/your_twitter" target="_blank">🐦 Twitter</a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=harrydyhasi&label=Profile%20views&color=ff69b4&style=flat-square" alt="Profile views" />
+</p>
+
+<p align="center">✨ Thanks for stopping by! Let’s build something amazing together 🚀</p>
