@@ -54,11 +54,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harrydyhasi&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165"/>
 </p>
 
+<!-- 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=harrydyhasi&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p>
-
-<!-- 
 
 ### 🏗️ Featured Projects
 | Project | Description | Tech |
