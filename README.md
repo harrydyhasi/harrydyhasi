@@ -28,7 +28,7 @@ I'm a **Mobile Developer** passionate about building **iOS** apps with **Swift**
 
 ## 📬 Get in Touch
 <p align="center">
-  <a href="mailto:your_email@example.com">📧 Email</a> | 
+  <a href="mailto:hoa.tt@gmail.com">📧 Email</a> | 
   <a href="https://your_portfolio.com">🌐 Portfolio</a> | 
   <a href="https://twitter.com/your_twitter">🐦 Twitter</a>
 </p>
