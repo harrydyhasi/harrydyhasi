@@ -1,63 +1,30 @@
-<p align="center">
-  <img src="images/mobile_app_banner.png" alt="Mobile App Banner" width="600"/>
-</p>
-
 # Hi, I'm Thanh Hòa! 👋
 
 <p align="center">
   <a href="https://linkedin.com/in/your_linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin"/></a>
   <a href="https://your_portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=web"/></a>
-  <a href="https://apps.apple.com/your_app"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=apple"/></a>
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyour_username&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=true"/>
 </p>
 
-I'm a **Mobile Developer** passionate about building **iOS** apps with **Swift** and **cross-platform** apps with **Flutter**. I specialize in clean code, real-time features, and intuitive UX. My work spans public, private, and open-source repositories, including apps published on the App Store and Google Play.
+I'm a **Mobile Developer** passionate about building **iOS** apps with **Swift** and **cross-platform** apps with **Flutter**. I specialize in clean code, real-time features, and intuitive UX. My work spans public, private, and open-source repositories.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harrydyhasi&label=Profile%20views&color=0e75b6&style=flat" alt="harrydyhasi" /> </p>
 ---
 
 ## 🌟 About Me
-- **🔭 Current Project**: Developing a Flutter food delivery app with real-time driver tracking using Google Maps and Socket.IO.
-- **🌱 Learning**: SwiftUI animations, Combine, and Flutter Riverpod.
-- **👯 Collaboration**: Contributing to open-source Swift and Flutter projects.
-- **💡 Fun Fact**: My first Swift app, a task manager, helps my friends stay productive!
-- **📍 Location**: [Your City, Country]
+- **📍 Location**: [Ho Chi Minh City, Viet Nam]
 
 ## 🛠️ Skills
-<p align="center">
-  <img src="https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift"/>
-  <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter"/>
-  <img src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart"/>
-  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase"/>
-  <img src="https://img.shields.io/badge/-Xcode-147EFB?style=flat-square&logo=xcode"/>
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://realm.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harrydyhasi&show_icons=true&theme=dracula&count_private=true&hide_border=true" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harrydyhasi&layout=compact&theme=dracula&count_private=true&hide_border=true" alt="Top Languages"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harrydyhasi&show_icons=true&theme=dracula&count_private=true&hide_border=true" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api?username=harrydyhasi&theme=dracula&combine_all_yearly_contributions=true&hide_border=true" alt="Contribution Stats"/>
 </p>
-<p align="center"><i>Stats include private and contributed repositories, anonymized for privacy.</i></p>
-
-## 🚀 Featured Projects
-- **[Food Delivery App](https://github.com/your_username/food-delivery-app)**  
-  A cross-platform app built with **Flutter**, featuring real-time tracking with **Google Maps** and **Socket.IO**.  
-  *Technologies*: Flutter, Dart, Firebase, Socket.IO.  
-  <img src="images/food_delivery_demo.gif" width="300"/>
-
-- **[iOS Task Manager](https://github.com/your_username/task-manager-ios)**  
-  An iOS app built with **SwiftUI** and **Core Data**, with smooth animations and iCloud sync.  
-  *Technologies*: Swift, SwiftUI, Core Data.  
-  <img src="images/task_manager_screenshot.png" width="300"/>
-
-- **[Open-Source Contribution](https://github.com/some_repo/flutter_package)**  
-  Added a custom animation widget to a Flutter package.  
-  *Technologies*: Flutter, Dart.
-
-## 🏆 Achievements
-- Published [X] apps to **App Store** and **Google Play**.
-- Contributed to [X] open-source and [Y] private repositories.
-- Certified in [Flutter & Dart - The Complete Guide].
 
 ## 📬 Get in Touch
 <p align="center">
