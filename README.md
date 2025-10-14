@@ -1,6 +1,10 @@
 <!-- Profile Header -->
-<h1 align="center">👋 Hi, I'm Thanh Hòa</h1>
-<h3 align="center">🚀 Mobile Developer | iOS (Swift) & Flutter Enthusiast</h3>
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=70A4FC&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Thanh+H%C3%B2a+👋;💻+Mobile+Developer+%7C+iOS+(Swift)+%26+Flutter+Enthusiast;✨+Passionate+about+Clean+Code+%26+Great+UX)](https://git.io/typing-svg)
+
+</div>
+
 
 <p align="center">
   <a href="https://linkedin.com/in/your_linkedin" target="_blank">
@@ -51,7 +55,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=harrydyhasi&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=harrydyhasi&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <!-- 
