@@ -1,7 +1,7 @@
 <!-- Profile Header -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=70A4FC&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Thanh+H%C3%B2a+👋;💻+Mobile+Developer+%7C+iOS+(Swift)+%26+Flutter+Enthusiast;✨+Passionate+about+Clean+Code+%26+Great+UX)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=70A4FC&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Thanh+H%C3%B2a+👋;💻+Mobile+Developer+%7C+iOS+(Swift)+%26+Flutter+Enthusiast;)](https://git.io/typing-svg)
 
 </div>
 
