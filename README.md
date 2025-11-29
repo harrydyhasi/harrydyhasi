@@ -22,7 +22,7 @@
 
 ### 💫 About Me
 - 📍 Based in **Ho Chi Minh City, Viet Nam**
-- 💻 Focused on **Swift**, **Flutter**, and **Clean Architecture**
+- 💻 Focused on **Swift** and **Flutter**
 - ⚡ Passionate about **real-time systems**, **scalable apps**, and **pixel-perfect UI**
 - 🌱 Currently exploring **AI integration in mobile apps**
 - 🎯 Goal: Craft seamless, beautiful user experiences with high-quality code
